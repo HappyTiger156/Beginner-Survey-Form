@@ -3,7 +3,7 @@
 ## Author
 
 Name: KTK
-Class: 2026-Full-Stack Web Development(React + PHP(Laravel)
+Class: NCC 2026-Full-Stack Web Development(React + PHP(Laravel)
 Assignment: Assignment 1 (1.png)
 
 ဒီ project က beginner level အတွက် HTML နဲ့ CSS သုံးပြီးရေးထားတဲ့ survey form assignment ဖြစ်ပါတယ်။
